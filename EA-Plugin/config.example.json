@@ -1,0 +1,30 @@
+{
+  "workspace": {
+    "team_id": "90131327433",
+    "name": "Uppit AI",
+    "central_list_id": "901324006043",
+    "central_list_name": "Weekly Commitment"
+  },
+  "user": {
+    "name": "Your Name",
+    "initials": "YN",
+    "email": "you@uppitai.com",
+    "clickup_user_id": "",
+    "timezone": "America/Monterrey",
+    "role": "team_member"
+  },
+  "secrets": {
+    "clickup_api_key_path": "~/.claude/secrets/clickup.key",
+    "fireflies_api_key_path": "~/.claude/secrets/fireflies.key",
+    "perplexity_api_key_path": "~/.claude/secrets/perplexity.key",
+    "apify_api_key_path": "~/.claude/secrets/apify.key"
+  },
+  "paths": {
+    "life_os_root": "",
+    "tasks": "tasks/current-week.md",
+    "discussion_items": "tasks/discussion-items.md",
+    "progress_dir": "progress/",
+    "business_otas": "business/",
+    "personal_otas": "personal/"
+  }
+}
